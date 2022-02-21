@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "hypixelflip",
+        "name": "HypixelFlip",
+        "description": "",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "",
+        "updateUrl": "",
+        "authorList": [],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
